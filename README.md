@@ -2,6 +2,9 @@
 
 ## Overview
 
+
+![micrograd](micrograd.png)
+
 Micrograd C is a lightweight implementation of automatic differentiation (autograd) in C, inspired by the Python micrograd library by Andrej Karpathy. This project provides a simple computational graph with backwpropagation support, allowing for gradient computation in basic mathematical operations.
 
 ## Features
